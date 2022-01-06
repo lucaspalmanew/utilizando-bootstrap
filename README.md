@@ -1,2 +1,2 @@
 # ex_bootstrap
-Utilizando Bootstrap
+Utilizando Bootstrap para criar portfólio
