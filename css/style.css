@@ -1,0 +1,51 @@
+
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #172952;
+    
+}
+
+.quem-somos {
+    background-color: rgb(174, 195, 235);
+    color: white;
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.linguagens {
+    background-color: #172952;
+    color: white;
+}
+
+.bg-footer {
+    background-color: #172952;
+    color: white;
+}
+
+.contato {
+    color: white;
+    background-color: rgb(174, 195, 235);
+}
+
+.navbar-nav {
+    background-color: rgb(174, 195, 235);
+    border-radius: 50px;
+}
+
+.navbar-brand {
+    padding-left: 100px;
+}
+
+.circle {
+    border-radius: 50px;
+}
+
+.nav-link {
+    color: white;
+}
